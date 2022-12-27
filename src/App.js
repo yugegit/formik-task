@@ -4,7 +4,7 @@ import Dashboard from './components/Dashboard';
 import AllStudents from './components/AllStudents';
 import AddStudent from './components/AddStudent';
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import EditStudents from './components/EditStudents';
 import FormikComponent from './FormikComponent';
